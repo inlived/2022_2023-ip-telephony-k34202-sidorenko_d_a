@@ -29,7 +29,7 @@ Date of finished: \
 + Настроен коммутатор. Vlan 1 выделен под VoIP с помощью CLI. \
 ![image](https://user-images.githubusercontent.com/80837580/221886413-11e9dc18-b38a-424a-9eac-e9c5fb3fead7.png)\
 + Телефонам назначены номера. \
-![image](https://user-images.githubusercontent.com/80837580/221888885-9797404c-7d34-4128-a8ad-e575ea0fef37.png)\
+![image](https://user-images.githubusercontent.com/80837580/222094047-75919726-c4af-46b3-a702-ddc72d4fcd99.png)\
 + Проведена проверка. Прозвон с одного телефона на другой прошел успешно. \
 ![image](https://user-images.githubusercontent.com/80837580/222093858-a1d00f1a-1c70-4650-afb8-8366a171d5e0.png)\
 ![image](https://user-images.githubusercontent.com/80837580/222093899-4ba80721-542f-4797-977c-a0e66dc6f4af.png)\
