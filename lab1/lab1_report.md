@@ -31,7 +31,8 @@ Date of finished: \
 + Телефонам назначены номера. \
 ![image](https://user-images.githubusercontent.com/80837580/221888885-9797404c-7d34-4128-a8ad-e575ea0fef37.png)\
 + Проведена проверка. Прозвон с одного телефона на другой прошел успешно. \
-![pic1](https://user-images.githubusercontent.com/80837580/221890342-1dea2e96-df72-41da-afce-84073788daf2.png)\
+![image](https://user-images.githubusercontent.com/80837580/222093858-a1d00f1a-1c70-4650-afb8-8366a171d5e0.png)\
+![image](https://user-images.githubusercontent.com/80837580/222093899-4ba80721-542f-4797-977c-a0e66dc6f4af.png)\
 Вывод: в результате выполнения работы была изучена средаCisco Packet Tracer, интерфейсы основных устройств, типы кабелей, собраны необходимые топологию. Изучено построение сети IP-телефонии с помощью маршрутизатора, коммутатора и IP телефонов Cisco 7960 в среде Packet tracer.
 
 
