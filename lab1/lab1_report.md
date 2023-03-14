@@ -6,7 +6,7 @@ Group: K34202\
 Author: Sidorenko Darya Alekseevna\
 Lab: Lab1\
 Date of create: 28.02.2023\
-Date of finished: \
+Date of finished: 06.03.2023\
 Цель:
 Изучить рабочую среду Cisco Packet Tracer, ознакомиться с интерфейсами основных устройств, типами кабелей, научиться собирать топологию. Изучить построение сети IP-телефонии с помощью маршрутизатора, коммутатора и IP телефонов Cisco 7960 в среде Packet tracer \
 Ход работы:
