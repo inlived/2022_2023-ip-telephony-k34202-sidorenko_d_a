@@ -13,15 +13,15 @@ Date of finished: \
 ## Часть 1
 + В рабочей среде Cisco Packet Tracer собрана схема соединения согласно требованиям (маршрутизатор, коммутатор и 3 IP-телефона). В конфигурационном режиме изменено название маршрутизатора на CMERouter. С помощью CLI отключен синтаксис ввода слов от DNS серверов и заданы пароли для защиты маршрутизатора как в удаленном режиме, так и в режиме консоли.
 ![image](https://user-images.githubusercontent.com/80837580/226118753-5026251a-8646-45e7-bc3e-bcaed7236574.png)\
-![image](https://user-images.githubusercontent.com/80837580/226118435-b9e2e3b2-ebf8-46b5-9e0b-6ff3b2c182ae.png)\
+![image](https://user-images.githubusercontent.com/80837580/226118435-b9e2e3b2-ebf8-46b5-9e0b-6ff3b2c182ae.png)
 + Настроена конфигурация интерфейса fa0/0 на маршрутизаторе Cisco 2811 (CMERouter) с помощью CLI.\
-![image](https://user-images.githubusercontent.com/80837580/226118536-093a9d4e-8160-469b-9710-e92b824e839d.png)\
+![image](https://user-images.githubusercontent.com/80837580/226118536-093a9d4e-8160-469b-9710-e92b824e839d.png)
 + Настроен DHCP сервера для передачи голоса и данных на маршрутизаторе Cisco 2811. Создан пул DHCP адреса со своим названием, задана сеть, в которой будет работать DHCP сервер, указан ip адрес нужного VLAN, в данном случае для передач данных. Включена опция 150, которая нужна для того, чтобы IP-телефоны использовали настройки CallManager Express с TFTP сервера.\
-![image](https://user-images.githubusercontent.com/80837580/226118690-51789456-4cb9-4e73-bd60-89a2d665810a.png)\
+![image](https://user-images.githubusercontent.com/80837580/226118690-51789456-4cb9-4e73-bd60-89a2d665810a.png)
 + Настроены услуги телефонии Cisco CallManager Express на маршрутизаторе 2811. Задано максимальное количество номеров, присваиваемых IP-телефоном, максимальное количество IP-телефонов. Задан IP адрес голосового шлюза, назначены внешние номера.\
-![image](https://user-images.githubusercontent.com/80837580/226122742-0566a81a-814c-413a-9547-f0e79d8a729c.png)\
+![image](https://user-images.githubusercontent.com/80837580/226122742-0566a81a-814c-413a-9547-f0e79d8a729c.png)
 + Созданы VLAN порты на коммутаторе Cisco Catalyst 3560 для взаимодействия коммутатора с маршрутизатором и подключены IP телефоны. Для этого был настроен интерфейс управления коммутатором в сети VLAN через назначение диапазона портов. Также телефонам назначены номера в командной строке маршрутизатора.\
 ![image](https://user-images.githubusercontent.com/80837580/226125724-ef1b1f11-520b-4159-a0f6-b21d0983a8d3.png)\
-![image](https://user-images.githubusercontent.com/80837580/226125817-5263bb27-9aa2-4963-b904-9f15c0ddd146.png)\
+![image](https://user-images.githubusercontent.com/80837580/226125817-5263bb27-9aa2-4963-b904-9f15c0ddd146.png)
 + Звонки между телефонами были проверены, соедиинение успешно.\
 ![image](https://user-images.githubusercontent.com/80837580/226125998-cbad159a-2cd5-4530-b8e8-feacbbc59ba6.png)
