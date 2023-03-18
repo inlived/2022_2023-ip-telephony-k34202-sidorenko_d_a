@@ -32,9 +32,10 @@ Date of finished: \
 + На коммутаторе созданы vlan, им назначены наименования. Для vlan'ов созданы логические подинтерфейсы, а из пула адресов исключены адреса интерфейса маршрутизатора и DNS-сервера.\
 ![image](https://user-images.githubusercontent.com/80837580/226129080-f22688bb-dd2f-454a-9103-b70f121f38b0.png)\
 ![image](https://user-images.githubusercontent.com/80837580/226130086-21fac06b-ef71-4e03-9289-6f4730344c85.png)
-+ Произведена настройка DHCP серверов для передачи голоса и данных.\
++ Произведена настройка DHCP серверов для передачи голоса и данных. Телефонам в сети назначены номера. \
 ![image](https://user-images.githubusercontent.com/80837580/226130293-f2df3403-7b72-4bfd-a96d-9ca3cb3d15b1.png)
-
 + Проверено корректное соединение узлов. 
+![image](https://user-images.githubusercontent.com/80837580/226125998-cbad159a-2cd5-4530-b8e8-feacbbc59ba6.png)\
+![image](https://user-images.githubusercontent.com/80837580/226126055-401fc646-0315-4d92-9066-e07f1b648017.png)
 ## Вывод
 В процессе лабораторной работы было изучено построение сети IP-телефонии с помощью маршрутизатора Cisco 2811, коммутатора Cisco catalyst 3560 и IP телефонов Cisco 7960.
