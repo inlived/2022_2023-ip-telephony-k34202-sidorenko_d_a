@@ -24,4 +24,11 @@ Date of finished: \
 ![image](https://user-images.githubusercontent.com/80837580/226125724-ef1b1f11-520b-4159-a0f6-b21d0983a8d3.png)\
 ![image](https://user-images.githubusercontent.com/80837580/226125817-5263bb27-9aa2-4963-b904-9f15c0ddd146.png)
 + Звонки между телефонами были проверены, соедиинение успешно.\
-![image](https://user-images.githubusercontent.com/80837580/226125998-cbad159a-2cd5-4530-b8e8-feacbbc59ba6.png)
+![image](https://user-images.githubusercontent.com/80837580/226125998-cbad159a-2cd5-4530-b8e8-feacbbc59ba6.png)\
+![image](https://user-images.githubusercontent.com/80837580/226126055-401fc646-0315-4d92-9066-e07f1b648017.png)
+## Часть 2
++ На основе схемы соединения из первой части работы получена следующая конфигурация.\
+![image](https://user-images.githubusercontent.com/80837580/226127667-aefd2d1d-71a7-40b4-8f09-ce25c1a0315d.png)
++ На коммутаторе созданы vlan, им назначены наименования.\
+![image](https://user-images.githubusercontent.com/80837580/226129080-f22688bb-dd2f-454a-9103-b70f121f38b0.png)
+
