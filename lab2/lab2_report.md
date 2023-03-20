@@ -34,7 +34,7 @@ Date of finished: \
 ![image](https://user-images.githubusercontent.com/80837580/226130086-21fac06b-ef71-4e03-9289-6f4730344c85.png)
 + Произведена настройка DHCP серверов для передачи голоса и данных. Телефонам в сети назначены номера. \
 ![image](https://user-images.githubusercontent.com/80837580/226130293-f2df3403-7b72-4bfd-a96d-9ca3cb3d15b1.png)
-+ Проверено корректное соединение узлов. 
++ Проверено корректное соединение узлов.\
 ![image](https://user-images.githubusercontent.com/80837580/226299768-3dba7e77-11ca-4cd1-a15a-fa8bb54dfbb0.png)\
 ![image](https://user-images.githubusercontent.com/80837580/226300355-4a941b97-2af9-4718-aac9-5b5a037e16e2.png)\
 ![image](https://user-images.githubusercontent.com/80837580/226125998-cbad159a-2cd5-4530-b8e8-feacbbc59ba6.png)\
