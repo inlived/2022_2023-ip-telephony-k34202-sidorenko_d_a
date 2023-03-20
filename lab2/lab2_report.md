@@ -23,7 +23,9 @@ Date of finished: \
 + Созданы VLAN порты на коммутаторе Cisco Catalyst 3560 для взаимодействия коммутатора с маршрутизатором и подключены IP телефоны. Для этого был настроен интерфейс управления коммутатором в сети VLAN через назначение диапазона портов. Также телефонам назначены номера в командной строке маршрутизатора.\
 ![image](https://user-images.githubusercontent.com/80837580/226125724-ef1b1f11-520b-4159-a0f6-b21d0983a8d3.png)\
 ![image](https://user-images.githubusercontent.com/80837580/226125817-5263bb27-9aa2-4963-b904-9f15c0ddd146.png)
-+ Звонки между телефонами были проверены, соедиинение успешно.\
++ Проверена доступность устройств через ping. Звонки между телефонами были проверены, соедиинение успешно.\
+![image](https://user-images.githubusercontent.com/80837580/226299768-3dba7e77-11ca-4cd1-a15a-fa8bb54dfbb0.png)\
+![image](https://user-images.githubusercontent.com/80837580/226300355-4a941b97-2af9-4718-aac9-5b5a037e16e2.png)\
 ![image](https://user-images.githubusercontent.com/80837580/226125998-cbad159a-2cd5-4530-b8e8-feacbbc59ba6.png)\
 ![image](https://user-images.githubusercontent.com/80837580/226126055-401fc646-0315-4d92-9066-e07f1b648017.png)
 ## Часть 2
