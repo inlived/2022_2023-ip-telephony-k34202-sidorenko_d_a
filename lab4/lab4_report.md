@@ -38,7 +38,7 @@ Date of finished: \
 ![image](https://user-images.githubusercontent.com/80837580/229055245-16e52c1f-46ba-4b13-b8f1-d76f418653aa.png)\
 ![image](https://user-images.githubusercontent.com/80837580/229055577-acc461b6-94c4-4f43-bf4a-41856c97bfc8.png)
 + Корректность связи проверена. \
-![image](https://user-images.githubusercontent.com/80837580/229056658-29826df5-44a9-4645-8166-90e82d8438e8.png)\
+![1234](https://user-images.githubusercontent.com/80837580/229059443-94a87729-1e1e-4a74-ac17-4c917218af1b.png)\
 ![1](https://user-images.githubusercontent.com/80837580/229057535-4e6a1c31-da46-4a68-af36-36c1e26f0239.png)
 
 
